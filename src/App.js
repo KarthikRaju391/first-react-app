@@ -35,7 +35,10 @@ export default function App() {
   return (
     <div className="App">
       <h1>Inside OUT</h1>
-      <input onChange={emojiInputHandler} />
+      <input
+        onChange={emojiInputHandler}
+        placeholder="Enter your emoji here to know it's meaning"
+      />
       <div className="outputDisplay">{meaning}</div>
       <h3>Emojis we know</h3>
       {emojisWeKnow.map(function (emoji) {
