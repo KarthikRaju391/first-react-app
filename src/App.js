@@ -8,7 +8,18 @@ const emojiDictionary = {
   "🍔": "burger",
   "🚗": "car",
   "😶": "speechless",
-  "😀": "happy"
+  "😀": "happy",
+  "🙄": "rolling eyes",
+  "🤐": "mouth zipped",
+  "🤯": "mind blown",
+  "🥱": "yawning",
+  "🤧": "sneezing",
+  "🤓": "nerd",
+  "🤨": "suspicious",
+  "😫": "tired",
+  "🤑": "money mouth",
+  "👽": "alien",
+  "🤡": "clown"
 };
 
 export default function App() {
