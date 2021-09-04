@@ -19,7 +19,7 @@ const emojiDictionary = {
   "😫": "tired",
   "🤑": "money mouth",
   "👽": "alien",
-  "🤡": "clown"
+  "🥶": "freezing"
 };
 
 export default function App() {
